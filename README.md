@@ -112,9 +112,9 @@ RMP 特别支持通过轻量级 Agent 模式，实现企业复杂网络结构中
 
 ## 🧭 项目路线图（Roadmap）
 
-- [x] 前后端架构搭建与初版仪表盘
-- [x] Key监控与生命周期分析
-- [x] Docker部署支持
+- [ ] 前后端架构搭建与初版仪表盘
+- [ ] Key监控与生命周期分析
+- [ ] Docker部署支持
 - [ ] 插件机制（Stream/BloomFilter/命令白名单）
 - [ ] Prometheus Exporter对接
 - [ ] 多租户认证系统（SaaS方向）
