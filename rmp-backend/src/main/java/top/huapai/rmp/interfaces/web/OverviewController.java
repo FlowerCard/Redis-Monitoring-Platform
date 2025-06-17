@@ -12,7 +12,7 @@ import top.huapai.rmp.application.service.OverviewAppService;
 import top.huapai.rmp.common.ApiResponse;
 
 /**
- * @Author HuaPai
+ * @author Cassian Florin
  * @Email flowercard591@gmail.com
  * @Date 2025/5/10 11:27
  * @Description 概览控制器

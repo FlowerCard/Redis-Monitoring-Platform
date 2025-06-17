@@ -11,7 +11,7 @@ import top.huapai.rmp.domain.model.RedisInstance;
 import top.huapai.rmp.domain.service.RedisMonitorDomainService;
 
 /**
- * @Author HuaPai
+ * @author Cassian Florin
  * @Email flowercard591@gmail.com
  * @Date 2025/5/10 11:20
  * @Description 概览应用服务

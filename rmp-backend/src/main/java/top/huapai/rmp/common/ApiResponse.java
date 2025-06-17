@@ -3,7 +3,7 @@ package top.huapai.rmp.common;
 import lombok.Data;
 
 /**
- * @Author HuaPai
+ * @author Cassian Florin
  * @Email flowercard591@gmail.com
  * @Date 2025/5/10 11:28
  * @Description API 响应类
